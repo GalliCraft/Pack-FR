@@ -1,0 +1,74 @@
+#Enchanting Plus French Language File
+
+#Item Names
+item.eplus.tableUpgrade.name=Mise à jour de la table
+item.eplus.scroll.name=Rouleau enchanté
+item.eplus.book.eplus.name=Livre enchanté +
+item.eplus.book.vanilla.name=Livre enchanté
+item.eplus.book.prismarine.name=Livre de Prismarine
+item.eplus.book.nether.name=Livre du Nether
+item.eplus.book.tartarite.name=Livre de Tartarite
+item.eplus.book.white.name=Livre Pâle
+item.eplus.book.metal.name=Livre en Métal
+
+#Block Names
+tile.eplus.advancedtable.name=Table d'enchantement avancé
+tile.eplus.arcaneInscriber.name=Arcane Inscriber
+tile.eplus.enchantmentbook.name=Livre enchanté
+
+#Tooltips
+tooltip.eplus.enchantment=Enchantment
+tooltip.eplus.modifier=Modificateur de Rouleau
+tooltip.eplus.speed=Vitesse
+tooltip.eplus.stability=Stabilité
+tooltip.eplus.repair=Coût de réparation %s
+tooltip.eplus.playerlevel=Niveau du joueur
+tooltip.eplus.maxlevel=Niveau maximum d'enchantement
+tooltip.eplus.enchant=Coût d'enchantement
+tooltip.eplus.learned=Appris
+tooltip.eplus.duration=Durée
+tooltip.eplus.uses=Usages restants
+tooltip.eplus.unlimited=Illimité
+tooltip.eplus.nodesc=Demandez à l'auteur du mod pour maintenir les descriptions d'enchantement.
+tooltip.eplus.experienceGained=EXP Acquise
+tooltip.eplus.invalid=Ce rouleau n'est pas valide!
+tooltip.eplus.additem=Placez un item dans le tableau pour commencer!
+tooltip.eplus.noench=Vous n'avez appris aucun enchantement pour cet objet!
+
+#Chat
+chat.eplus.scrollunlock=Enchantement débloqué
+chat.eplus.scrollunlock.failed=Vous avez déjà appris cela.
+chat.eplus.morebooks=Pas assez de bibliothèques
+chat.eplus.morelevels=Pas assez de niveaux
+
+#Misc
+itemGroup.eplus=Enchanting Plus
+
+#Vanilla Enchantment Descriptions
+enchantment.minecraft.protection.desc=Réduit les dommages de la plupart des sources.
+enchantment.minecraft.fire_protection.desc=Réduit les effets des dégâts causés par le feu. Réduit également le temps de combustion lors d'un incendie.
+enchantment.minecraft.feather_falling.desc=Réduit les dommages causés par les chutes et les dommages causés par la téléportation.
+enchantment.minecraft.blast_protection.desc=Réduit les dommages causés par les explosions et les reculs.
+enchantment.minecraft.projectile_protection.desc=Réduit les dommages causés par des projectiles tels que des flèches et des boules de feu.
+enchantment.minecraft.respiration.desc=Étend le temps durant lequel le joueur peut rester sous l'eau. Améliore également la vision sous l'eau.
+enchantment.minecraft.aqua_affinity.desc=Augmente la vitesse de minage sous l'eau.
+enchantment.minecraft.thorns.desc=Provoque des dégâts aux ennemis lorsqu'ils vous attaquent.
+enchantment.minecraft.sharpness.desc=Augmente les dégâts de l'item.
+enchantment.minecraft.smite.desc=Augmente les dégâts causés sur les mobs morts-vivants tels que les zombies et les squelettes.
+enchantment.minecraft.bane_of_arthropods.desc=Augmente les dégâts causés contre les arthropodes tels que les araignées et le Silverfish.
+enchantment.minecraft.knockback.desc=Augmente la force de recul de l'arme.
+enchantment.minecraft.fire_aspect.desc=Provoque des dégâts de feu supplémentaires lorsqu'ils sont utilisés pour attaquer une foule.
+enchantment.minecraft.looting.desc=Les mobs dropperont plus de butin lorsqu'ils seront tués.
+enchantment.minecraft.efficiency.desc=Augmente la vitesse de minage de l'outil.
+enchantment.minecraft.silk_touch.desc=Permet de collecter des blocs fragiles tels que le verre.
+enchantment.minecraft.unbreaking.desc=Permet à l'outil de perdre de la durabilité à un rythme plus lent.
+enchantment.minecraft.fortune.desc=Certains blocs comme le charbon et le minerai de diamant peuvent dropper des items supplémentaires.
+enchantment.minecraft.power.desc=Augmente le dégât des flèches tirées avec l'arc.
+enchantment.minecraft.punch.desc=Augmente la résistance au recul des flèches tirées avec l'arc.
+enchantment.minecraft.flame.desc=Les flèches tirées de l'arc inflige des dégâts supplémentaires de feu.
+enchantment.minecraft.infinity.desc=Permet à l'arc de tirer des flèches normales gratuitement. Vous devez avoir au moins une flèche pour que cela fonctionne.
+enchantment.minecraft.luck_of_the_sea.desc=Augmente les chances d'obtenir un bon butin pendant la pêche.
+enchantment.minecraft.lure.desc=Diminue le temps nécessaire pour qu'un poisson mord le crochet.
+enchantment.minecraft.depth_strider.desc=Augmente la vitesse de déplacement sous l'eau.
+enchantment.minecraft.frost_walker.desc=Gêle l'eau présente sous le joueur.
+enchantment.minecraft.mending.desc=Répare la durabilité de l'armure et des outils, utilise de l'EXP.

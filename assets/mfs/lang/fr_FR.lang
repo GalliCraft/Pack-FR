@@ -1,0 +1,77 @@
+#Traduit par EvanG(GalliCraft)
+
+#Mort
+death.attack.propellor.null.null=%1$s a été déchiqueté par une hélice.
+death.attack.propellor.null.player=%1$s a été déchiqueté par une hélice en se battant %2$s
+death.attack.propellor.player.null=%1$s a été tué par %2$s en utilisant une hélice.
+death.attack.propellor.player.player=%1$s a%2$s été tué par% 2 $ s utilisant l'hélice tout en se battant %3$s
+
+death.attack.planecrash.null.null=%1$s est mort dans un accident d'avion.
+death.attack.planecrash.null.player=%1$s s'est distrait pendant la lutte contre %2$s et est mort dans un accident d'avion.
+death.attack.planecrash.player.null=%2$s a causé un accident d'avion et a tué %1$s.
+death.attack.planecrash.player.player=%1$s s'est distrait pendant la lutte contre %2$s et a laissé %3$s crasher son avion.
+
+#Divers
+entity.mfs.Chest.name=Coffre
+tile.PropellerBench.name=Banc d'hélices
+
+
+#Items
+item.MC172.name=MC-172
+item.PZLP11.name=PZL P.11
+item.Vulcanair.name=Vulcanair
+item.Otter.name=Twin Otter
+item.Trimotor.name=Trimoteur
+item.Seat.name=Sièges
+item.Skid.name=Train d'attérissage
+item.Pontoon.name=Ponton
+item.WheelSmall.name=Petite Roue
+item.WheelLarge.name=Grosse Roue
+item.Propeller_0.name=Hélice en Bois
+item.Propeller_1.name=Hélice en Fer
+item.Propeller_2.name=Hélice en Obsidienne
+item.engine_plane_small.name=Petit Moteur
+item.engine_plane_large.name=Gros Moteur
+
+item.FlightInstrumentBase.name=Plaque de base
+item.PointerShort.name=Pointeur court
+item.PointerLong.name=Pointeur long
+item.FlightInstrument0.name=Indicateur d’attitude
+item.FlightInstrument0.description=Montre l’inclinaison globale de votre avion par rapport à la ligne d’horizon.
+item.FlightInstrument1.name=Altimètre
+item.FlightInstrument1.description=Indique l’altitude à laquelle vous vous trouvez.
+item.FlightInstrument2.name=Boussole embarquée
+item.FlightInstrument2.description=Indique la direction vers laquelle vous volez.
+item.FlightInstrument3.name=Jauge de vitesse
+item.FlightInstrument3.description=Indique la vitesse de l’avion.
+item.FlightInstrument4.name=Coordinateur de virage
+item.FlightInstrument4.description=Indique votre taux d’encaissement.
+item.FlightInstrument5.name=Jauge de déportation
+item.FlightInstrument5.description=Indique votre taux de déportation.
+item.FlightInstrument6.name=Jauge de vitesse verticale
+item.FlightInstrument6.description=Indique votre vitesse d’élévation.
+item.FlightInstrument7.name=Jauge de portance
+item.FlightInstrument7.description=Indique la qualité de la portance qui maintient l’avion en l’air.
+item.FlightInstrument8.name=Indicateur d'équilibre
+item.FlightInstrument8.description=Indique l'équilibre de l'avion.
+item.FlightInstrument9.name=DUMMY
+item.FlightInstrument9.description=
+item.FlightInstrument10.name=Tachymètre
+item.FlightInstrument10.description=Indique la vitesse du moteur.
+item.FlightInstrument11.name=Jauge de carburant
+item.FlightInstrument11.description=Indique quelle quantité de carburant est stockée dans l’avion.
+item.FlightInstrument12.name=Jauge de consommation de carburant
+item.FlightInstrument12.description=Indique la vitesse de consommation du carburant.
+item.FlightInstrument13.name=Indicateur de température du moteur
+item.FlightInstrument13.description=Indique la température du moteur.
+item.FlightInstrument14.name=Jauge de pression d'huile
+item.FlightInstrument14.description=Indique la pression de l'huile (PAS D'UTILISATION).
+item.FlightInstrument15.name=Jauge d'électricité
+item.FlightInstrument15.description=Indique l'alimentation électrique et l'utilisation.
+
+#GUI
+itemGroup.tabMFS=Minecraft Flight Simulator
+
+#Config
+key.categories.mfs=Minecraft Flight Simulator
+key.config=Open GUI / Configuration de la touche

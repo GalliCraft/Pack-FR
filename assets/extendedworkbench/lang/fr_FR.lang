@@ -1,0 +1,66 @@
+#Outils
+item.extendedWorkbench.tool00.name=Epée en Bois Étendue
+item.extendedWorkbench.tool01.name=Epée en Pierre Étendue
+item.extendedWorkbench.tool02.name=Epée en Fer Étendue
+item.extendedWorkbench.tool03.name=Epée en Diamand Étendue
+item.extendedWorkbench.tool04.name=Epée en Or Étendue
+
+item.extendedWorkbench.tool10.name=Pelle en Bois Étendue
+item.extendedWorkbench.tool11.name=Pelle en Pierre Étendue
+item.extendedWorkbench.tool12.name=Pelle en Fer Étendue
+item.extendedWorkbench.tool13.name=Pelle en Diamand Étendue
+item.extendedWorkbench.tool14.name=Pelle en Or Étendue
+
+item.extendedWorkbench.tool20.name=Pioche en Bois Étendue
+item.extendedWorkbench.tool21.name=Pioche en Pierre Étendue
+item.extendedWorkbench.tool22.name=Pioche en Fer Étendue
+item.extendedWorkbench.tool23.name=Pioche en Diamand Étendue
+item.extendedWorkbench.tool24.name=Pioche en Or Étendue
+
+item.extendedWorkbench.tool30.name=Hache en Bois Étendue
+item.extendedWorkbench.tool31.name=Hache en Pierre Étendue
+item.extendedWorkbench.tool32.name=Hache en Fer Étendue
+item.extendedWorkbench.tool33.name=Hache en Diamand Étendue
+item.extendedWorkbench.tool34.name=Hache en Or Étendue
+
+item.extendedWorkbench.tool40.name=Houe en Bois Étendue
+item.extendedWorkbench.tool41.name=Houe en Pierre Étendue
+item.extendedWorkbench.tool42.name=Houe en Fer Étendue
+item.extendedWorkbench.tool43.name=Houe en Diamand Étendue
+item.extendedWorkbench.tool44.name=Houe en Or Étendue
+
+
+item.extendedWorkbench.bow.name=Arc Étendue
+item.extendedWorkbench.fishingRod.name=Canne à Peche Étendue
+item.extendedWorkbench.flintAndSteel.name=Briquet Étendue
+item.extendedWorkbench.shears.name=Cisaille Étendue
+item.extendedWorkbench.map.name=Carte Étendue
+item.extendedWorkbench.map.empty.name=Carte Vide Étendue
+item.extendedWorkbench.compass.name=Boussole Étendue
+
+
+#Armures
+item.extendedWorkbench.armor00.name=Casque en Cuir Étendue
+item.extendedWorkbench.armor01.name=Plastron en Cuir Étendue
+item.extendedWorkbench.armor02.name=Pantalon en Cuir Étendue
+item.extendedWorkbench.armor03.name=Bottes en Cuir Étendue
+
+item.extendedWorkbench.armor20.name=Casque en Fer Étendue
+item.extendedWorkbench.armor21.name=Plastron en Fer Étendue
+item.extendedWorkbench.armor22.name=Jambière en Fer Étendue
+item.extendedWorkbench.armor23.name=Bottes en Fer Étendue
+
+item.extendedWorkbench.armor30.name=Casque en Or Étendue
+item.extendedWorkbench.armor31.name=Plastron en Or Étendue
+item.extendedWorkbench.armor32.name=Jambière en Or Étendue
+item.extendedWorkbench.armor33.name=Bottes en Or Étendue
+
+item.extendedWorkbench.armor40.name=Casque en Diamand Étendue
+item.extendedWorkbench.armor41.name=Plastron en Diamand Étendue
+item.extendedWorkbench.armor42.name=Jambière en Diamand Étendue
+item.extendedWorkbench.armor43.name=Bottes en Diamand Étendue
+
+#GUI
+key.extendedWorkbench.zoomIn=Carte étendue: Zoom avant
+key.extendedWorkbench.zoomOut=Carte étendue: Zoom arrière
+key.categories.extendedWorkbench=Extended Workbench

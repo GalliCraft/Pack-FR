@@ -1,0 +1,54 @@
+item.portalgun.item.dustEnderPearl.name=Poussière d'Ender Perle
+item.portalgun.item.miniatureBlackHole.name=Trou noir miniature
+item.portalgun.item.portalgun.name=Portal Gun
+
+block.portalgun.block.portal.name=Bloc du Portail
+
+portalgun.info.global=Portal Gun global
+portalgun.info.owner=Portal Gun de %s 
+portalgun.info.channel=Chaîne: %s
+portalgun.info.size=Taille: %1$s x %2$s
+portalgun.info.grabStrength0=Force de Saisie: Erroné
+portalgun.info.grabStrength1=Force de Saisie: Petites entités
+portalgun.info.grabStrength2=Force de Saisie: Blocs + Entités
+portalgun.info.grabStrength3=Force de Saisie: Entité + grandes entités
+portalgun.info.grabStrength4=Force de Saisie: Entités + Très grandes entités
+portalgun.info.newPortalGun=Portal Gun nouvellement fabriqué
+
+portalgun.config.cat.portalgun.name=Paramètres du Portal Gun
+
+portalgun.config.cat.portalgun.comment=Les options de configuration relatives à l'utilisation du Portal Gun
+
+portalgun.config.prop.portalgunIndicatorSize.name=Taille de l'indicateur du Portal Gun
+portalgun.config.prop.seeThroughPortals.name=Voir à travers les portails
+portalgun.config.prop.fancyPortals.name=Contour de Portail
+
+portalgun.config.prop.keyGrab.name=Grab Key
+portalgun.config.prop.keyReset.name=Réinitialiser la clé du Portal
+portalgun.config.prop.keyZoom.name=Clé de zoom
+
+portalgun.config.prop.equipItemSound.name=Activer le son du portail
+
+portalgun.config.prop.entityGrabWeightBase.name=Poids de base de l'Entité Saisie
+portalgun.config.prop.maxShootDistance.name=Distance maximum de tir de portail
+portalgun.config.prop.canFireThroughGlass.name=Les portails peuvent traverser le verre
+portalgun.config.prop.canFireThroughLiquid.name=Les portails peuvent traverser le liquide
+portalgun.config.prop.canPortalsResizeWhenCreated.name=Les portails peuvent être redimensionnés lorsqu'ils sont créés
+portalgun.config.prop.canPortalProjectilesChunkload.name=Les projectile du portail peuvent charger les chunks
+
+portalgun.config.prop.portalgunIndicatorSize.comment=La taille de l'indicateur autour du réticule lorsque vous tenez le pistolet du portail. \nValue est en pourcentage \n0 pour désactiver.
+portalgun.config.prop.seeThroughPortals.comment=Activer le rendu pour voir à travers les portails? \n\nSi votre PC ne prend pas en charge cela, vous ne pourrez pas voir les portails même si cela a été activé.
+portalgun.config.prop.fancyPortals.comment=Activer le rendu des portails avec des shaders? \n\nSi votre PC ne prend pas en charge cela, les shaders ne seront pas utilisés même si cela a été activé.
+
+portalgun.config.prop.keyGrab.comment=La clé pour attraper des blocs / entités avec le Portal Gun
+portalgun.config.prop.keyReset.comment=Clé pour réinitialiser les portails de votre Portal Gun
+portalgun.config.prop.keyZoom.comment=Clé pour zoomer et dézoomer le Portal Gun
+
+portalgun.config.prop.equipItemSound.comment=Jouer un son lorsque le Portal Gun est équipé?
+
+portalgun.config.prop.entityGrabWeightBase.comment=Poids de base que le Portal Gun est autorisé à transporter, en percentage (%) \nConfigurez ceci à 0 pour désactiver l'enregistrement de blocs et d'entités qui ne font pas partie de ce mod.
+portalgun.config.prop.maxShootDistance.comment=Distance maximale pour mettre le feu à des portails depuis le Portal Gun.
+portalgun.config.prop.canFireThroughGlass.comment=Le projectile tiré par le pistolet du portail peut-il passer à travers le verre?
+portalgun.config.prop.canFireThroughLiquid.comment=Le projectile tiré par le pistolet du portail peut-il passer à travers le liquide?
+portalgun.config.prop.canPortalsResizeWhenCreated.comment=Est-ce que le portail qui génère des projectiles peut être redimensionné vers le bas si la pleine taille ne correspond pas?
+portalgun.config.prop.canPortalProjectilesChunkload.comment=Est-ce que le projectile du portail (que vous tirez du pistolet du portail) est-il chargé? \nDisactiver cela pourrait causer des problèmes.

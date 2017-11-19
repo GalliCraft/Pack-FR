@@ -1,0 +1,11 @@
+itemGroup.possessed=Possessed
+
+item.possessive_helmet.name=Chapeau de possession
+item.possessitite.name=Possessionite
+
+tile.possessitite_ore.name=Minerai de Possessionite
+
+gui.possess_time.name=Charge de possession
+gui.possess_experience.name=Possession Experience
+
+notification.update_available.name=Mise à jour disponible: %s!

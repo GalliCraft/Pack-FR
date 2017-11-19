@@ -1,0 +1,19 @@
+#Tab
+itemGroup.tabtab=La Prison
+
+#Armor
+item.Pantalon_Du_Prisonnier.name=Pantalon Du Prisonnier
+item.Bottes_Du_Prisonnier.name=Bottes du Prisonnier
+item.Casque_Du_Prisonnier.name=Casque du Prisonnier
+item.0.name=Plastron du Prisonnier
+
+#Sword
+item.SuperMystrone.name=Super Mystrone
+
+#Entity
+entity.LaPrison.policier2.name=Policier X1
+entity.LaPrison.policierX2.name=Policier X2
+entity.LaPrison.policier.name=Prisonnier X1
+entity.LaPrison.voleur.name=Prisonnier X2
+entity.LaPrison.voleurX.name=Prisonnier X3
+entity.LaPrison.prisonnie.name=Prisonnier X4

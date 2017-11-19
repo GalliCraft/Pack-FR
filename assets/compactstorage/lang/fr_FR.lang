@@ -1,0 +1,9 @@
+tile.compactchest.name=Coffre compact
+tile.chestBuilder.name=Constructeur de Coffre
+
+item.backpack.name=Sac à dos
+
+itemGroup.compactStorage=CompactStorage
+
+text.columns=Colonnes
+text.rows=Lignes

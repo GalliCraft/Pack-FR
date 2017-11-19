@@ -1,0 +1,24 @@
+betterachievements.gui.old=Ancien Ecran
+
+#Flèche
+betterachievements.config.cantUnlockArrowColour=Couleur si impossible de le débloquer
+betterachievements.config.canUnlockArrowColour=Couleur si possible de le débloquer
+betterachievements.config.completeArrowColour=Couleur si débloquer
+betterachievements.config.cantUnlockArrowColour.desc=Couleur de la flèche pointant vers un succès qui ne peut pas être déverrouillé, format #RRVVBB
+betterachievements.config.canUnlockArrowColour.desc=Couleur de la flèche pointant vers un succès qui peut être déverrouillé, format #RRVVBB
+betterachievements.config.completeArrowColour.desc=Couleur de la flèche pointant vers un succès qui est déverrouillé, format #RRVVBB
+
+betterachievements.config.scrollButtons=Activer les boutons de défilement
+betterachievements.config.scrollButtons.desc=Sur non, les boutons ne seront pas affichés, toutes les autres fonctionnalités fonctionneront
+betterachievements.config.listTabIcons=Mods dans la liste
+betterachievements.config.listTabIcons.desc=Une liste qui définit les icônes de l'onglet de l'utilisateur, remplacera toutes les icônes de l'ensemble de codes
+betterachievements.config.iconReset=Changement de l'icône en jeu
+betterachievements.config.iconReset.desc=Changer une icône d'onglet à l'aide d'un clic molette d'un succès sur la page
+betterachievements.config.userColourOverride=Utilisez toujours les couleurs définies par l'utilisateur pour les flèches
+betterachievements.config.userColourOverride.desc=Remplace les couleurs par default du mod pour les flèches
+betterachievements.config.opLockUnlock=Les OP peuvent débloquer et verrouiller les succès
+betterachievements.config.opLockUnlock.desc=Ne fonctionnera que si créatif si c'est non (Utilisez le bouton droit de la souris pour débloquer les succès et cliquez avec le bouton droit de la souris + Shift pour les verrouiller)
+betterachievements.config.showModName=Afficher le nom du mod dans le popup du succès
+betterachievements.config.showModName.desc=Si le nom du mod doit être ajouté dans le popup de réussite du succès
+betterachievements.config.modNameColour=Couleur du nom de mod dans le popup de réussite
+betterachievements.config.modNameColour.desc=Couleur du nom du mod dans le pop-up de succès déverrouillée, format #RRVVBB

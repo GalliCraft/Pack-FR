@@ -1,0 +1,9 @@
+malisiscore.commands.usage=Utilisez / malisis <config | version> [modid] pour afficher la version actuelle ou la GUI de configuration pour le mod.
+malisiscore.commands.modversion=Version actuelle pour %s : %s.
+malisiscore.commands.modnotfound=Aucun mod enregistré avec l'id %s.
+malisiscore.commands.noconfiguration=Aucune configuration disponible pour %s.
+
+malisiscore.config.title=Configuration
+
+malisiscore.config.sortTileEntities=Activer le tri des entités
+malisiscore.config.sortTileEntities.comment=Activez cette option pour trier les entités avant le rendu. \r\n Ceci corrigera les problèmes de transparence où certaines entités ne sont pas affichées correctement lorsqu'elles sont derrière une autre. \r\n Pour effet, les performances peuvent être affectées.

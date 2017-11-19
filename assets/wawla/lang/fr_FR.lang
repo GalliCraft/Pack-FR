@@ -1,0 +1,106 @@
+#Wawla Language File
+tooltip.wawla.true=§aVrai
+tooltip.wawla.false=§4Faux
+tooltip.wawla.yes=§a✔
+tooltip.wawla.no=§4✖
+tooltip.wawla.item=Item
+tooltip.wawla.block=Bloc
+tooltip.wawla.shovel=Pelle
+tooltip.wawla.pickaxe=Pioche
+tooltip.wawla.axe=Hache
+tooltip.wawla.chisel=Cisaille
+tooltip.wawla.scoop=Scoop
+tooltip.wawla.crowbar=Crowbar
+tooltip.wawla.sword=Épée
+tooltip.wawla.mainhand=Main Principale
+tooltip.wawla.offhand=Main Secondaire
+tooltip.wawla.feet=Pieds
+tooltip.wawla.legs=Jambes
+tooltip.wawla.chest=Poitrine
+tooltip.wawla.head=Tête
+tooltip.wawla.star=★
+tooltip.wawla.name=Nom
+
+#Generic Tiles
+tooltip.wawla.generic.progression=Progression
+tooltip.wawla.generic.enchpower=Puissance d'enchantement
+tooltip.wawla.generic.blastresist=Resistance aux explosions
+tooltip.wawla.generic.hardness=Dureté
+tooltip.wawla.generic.harvestable=Récoltable
+tooltip.wawla.generic.showtier=Tier
+tooltip.wawla.generic.tooltype=Outil
+
+#Generic Entities
+tooltip.wawla.generic.armor=Armure
+tooltip.wawla.generic.sitting=Assis
+tooltip.wawla.generic.tamed=Apprivoisée
+tooltip.wawla.generic.breedingtime=Pause avant Reproduction
+tooltip.wawla.generic.growingage=Temps de Croissance
+tooltip.wawla.generic.breedingitem=Breedable
+tooltip.wawla.generic.temperature=Température: %dK
+
+#Vanilla Tiles
+tooltip.wawla.vanilla.input=Entrée
+tooltip.wawla.vanilla.fuel=Carburant
+tooltip.wawla.vanilla.output=Sortie
+tooltip.wawla.vanilla.burntime=Temps de Combustion
+
+#Vanilla Entities
+tooltip.wawla.vanilla.jump=Hauteur de Saut
+tooltip.wawla.vanilla.speed=Vitesse
+tooltip.wawla.vanilla.career=Career
+tooltip.wawla.vanilla.fuse=Fuse
+tooltip.wawla.vanilla.experience=Expérience
+
+#Villager Types
+villager.wawla.zombie=Zombie
+villager.wawla.witch=Sorcière
+
+#Vanilla Fixes
+entity.ItemFrame.name=Cadre de l'objet
+
+#Enchantment Tooltip
+tooltip.wawla.enchdesc.name=Enchantement
+tooltip.wawla.enchdesc.addedby=Ajouté par
+tooltip.wawla.enchdesc.missing=Aucune description trouvée. Demandez à l'auteur de %s d'en ajouter une. La clé de localisation est %s.
+tooltip.wawla.enchdesc.activate=Appuyez sur %s%s%s pour les descriptions d'enchantement.
+tooltip.wawla.enchPower=Force de l'Enchantement
+
+#Vanilla Enchantment Descriptions
+enchantment.minecraft.protection.desc=Réduit les dommages de la plupart des sources. 
+enchantment.minecraft.fire_protection.desc=Réduit les effets des dégâts causés par le feu. Réduit également le temps de combustion.
+enchantment.minecraft.feather_falling.desc=Réduit les dégâts causés par les chutes et les dommages causés par la téléportation.
+enchantment.minecraft.blast_protection.desc=Réduit les dommages causés par les explosions et les reculs.
+enchantment.minecraft.projectile_protection.desc=Réduit les dommages causés par des projectiles tels que des flèches et des boules de feu.
+enchantment.minecraft.respiration.desc=Étend le temps que le joueur peut dépenser sous l'eau. Améliore également la vision sous l'eau.
+enchantment.minecraft.aqua_affinity.desc=Augmente la vitesse de minage sous l'eau.
+enchantment.minecraft.thorns.desc=Provoque des dégâts aux ennemis lorsqu'ils vous attaquent.
+enchantment.minecraft.sharpness.desc=Augmente les dégâts de l'objet.
+enchantment.minecraft.smite.desc=Augmente les dégâts infligés aux mobs morts-vivants tels que les zombies et les squelettes.
+enchantment.minecraft.bane_of_arthropods.desc=Augmente les dégâts infligés contre les arthropodes tels que les araignées et les Silverfishs.
+enchantment.minecraft.knockback.desc=Augmente le recul de l'arme.
+enchantment.minecraft.fire_aspect.desc=Provoque des dégâts de feu additionnels lorsqu'ils sont utilisés pour attaquer un mob.
+enchantment.minecraft.looting.desc=Les mobs abandonneront plus de butin lorsqu'ils seront tués.
+enchantment.minecraft.efficiency.desc=Augmente la vitesse de minage de l'outil.
+enchantment.minecraft.silk_touch.desc=Permet de collecter des blocs fragiles tels que le verre.
+enchantment.minecraft.unbreaking.desc=Permet à l'outil de perdre de la durabilité à un rythme plus lent.
+enchantment.minecraft.fortune.desc=Quelques blocs comme le charbon et le minerai de diamant peuvent drop des articles supplémentaires.
+enchantment.minecraft.power.desc=Augmente le dégât des flèches tirées depuis l'arc.
+enchantment.minecraft.punch.desc=Augmente la résistance au recul des flèches tirées par l'arc.
+enchantment.minecraft.flame.desc=Les flèches tirées de l'arc occasionneront des dégâts de feu additionnels.
+enchantment.minecraft.infinity.desc=Permet à l'arc de tirer des flèches normales gratuitement. Vous devez avoir au moins une flèche pour que cela fonctionne.
+enchantment.minecraft.luck_of_the_sea.desc=Augmente les chances d'obtenir un bon butin pendant la pêche.
+enchantment.minecraft.lure.desc=Diminue la quantité de temps qu'il faut pour un poisson de mordre l'hameçon.
+enchantment.minecraft.depth_strider.desc=Augmente la vitesse de déplacement sous l'eau.
+enchantment.minecraft.frost_walker.desc=Gèle l'eau sous le joueur en glace craquée.
+enchantment.minecraft.mending.desc=Répare la durabilité de l'armure et des outils avec de l'EXP.
+
+#Dragon Mounts
+tooltip.wawla.dragonmounts.start=Cliquez pour commencer l'éclosion !
+tooltip.wawla.dragonmounts.stage=Étape
+tooltip.wawla.dragonmounts.stage.egg=Oeuf
+tooltip.wawla.dragonmounts.stage.hatchling=Éclosion
+tooltip.wawla.dragonmounts.stage.juvenile=Juvénile
+tooltip.wawla.dragonmounts.stage.adult=Adulte
+tooltip.wawla.dragonmounts.adulttime=L'âge adulte
+tooltip.wawla.dragonmounts.nexttime=Étape suivante

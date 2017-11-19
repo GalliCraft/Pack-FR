@@ -1,0 +1,14 @@
+tile.torchmaster.mega_torch.lit.name=Mega Torche
+tile.torchmaster.mega_torch.unlit.name=Mega Torche Non allumé
+tile.torchmaster.terrain_lighter.name=Terrain plus léger
+tile.torchmaster.dread_lamp.name=Lampe Redoutable
+
+tile.torchmaster.mega_torch.light_failed_itemcount=§CVous ne disposez pas de suffisamment d'item pour allumer la torche§r
+tile.torchmaster.mega_torch.light_failed_itemtoodamaged=§CVotre item est trop endommagé pour allumer la torche§r
+tile.torchmaster.mega_torch.torch_is_lit=§2La torche brûle§r
+
+tile.torchmaster.mega_torch.lit.burntime_left=Temps restant:%s.%s:%s:%s
+
+container.torchmaster.terrain_lighter=Terrain plus léger
+gui.torchmaster.block.state.no_signal=Pas de signal de Redstone
+itemGroup.torchmaster=TorchMaster

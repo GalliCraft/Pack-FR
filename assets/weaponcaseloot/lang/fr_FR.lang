@@ -1,0 +1,9 @@
+itemGroup.weaponCaseLoot=Weapon Case Loot
+item.weaponcase1.name=Caisse d'Arme: Première Édition
+item.weaponcase2.name=Caisse d'Arme: Seconde Édition
+item.weaponcase3.name=Caisse d'Arme: Arcs
+item.weaponcase4.name=Caisse d'Arme: Babioles
+weaponsword.name=Épée d'arme
+bauble.name=Caisse d'Arme: Anneaux de la Génialité
+achievement.legendary=Légendaire
+achievement.legendary.desc=Obtenez une épée légendaire d'une caisse d'arme

@@ -1,0 +1,39 @@
+# modes de Redstone
+redstone.always=Toujours
+redstone.never=Jamais
+redstone.high=Haute
+redstone.low=Faible
+redstone.pulse=Impulsion
+
+# Config
+shadowmc.config.gui.title=Configuration de ShadowMC
+shadowmc.config.gui.category.dev=Dev
+shadowmc.config.gui.category.general=Général
+
+# Blocs
+tile.structureCreator.name=Créateur de structure
+
+# Items
+item.nuggetIron.name=Nugget de fer
+
+# Divers
+shadowmc.gui.empty=Vide
+
+shadowmc.oxygen.level=Oxygène: %f / %f
+
+shadowmc.dye.white=Blanc
+shadowmc.dye.orange=Orange
+shadowmc.dye.magenta=Magenta
+shadowmc.dye.lightBlue=Bleu clair
+shadowmc.dye.yellow=Jaune
+shadowmc.dye.lime=Citron vert
+shadowmc.dye.pink=Rose
+shadowmc.dye.gray=Gris
+shadowmc.dye.silver=Argenté
+shadowmc.dye.cyan=Cyan
+shadowmc.dye.purple=Violet
+shadowmc.dye.blue=Bleu
+shadowmc.dye.brown=Marron
+shadowmc.dye.green=Vert
+shadowmc.dye.red=Rouge
+shadowmc.dye.black=Noir

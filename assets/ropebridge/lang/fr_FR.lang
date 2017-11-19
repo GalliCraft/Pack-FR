@@ -1,0 +1,40 @@
+_#Items
+item.ropebridge.bridge.builder.name=Pistolet Créateur de Pont
+item.ropebridge.bridge.builder.material.hook.name=Crochet
+item.ropebridge.bridge.builder.material.barrel.name=Canon du Pistolet
+item.ropebridge.bridge.builder.material.handle.name=Réservoir
+item.ropebridge.rope.name=Rope
+item.ropebridge.ladder.hook.name=Crochet de pistolet à échelle
+item.ropebridge.ladder.builder.name=Pistolet à Échelle
+
+#Tab
+itemGroup.RopeBridgeTab=Rope Bridge
+
+#Blocs
+tile.ropebridge.bridge.block.1.name=Planche de Pont 1
+tile.ropebridge.bridge.block.2.name=Planche de Pont 2
+tile.ropebridge.bridge.block.3.name=Planche de Pont 3
+tile.ropebridge.bridge.block.4.name=Planche de Pont 4
+
+tile.ropebridge.rope.ladder.name=Échelle de corde
+
+#Succès
+achievement.grapplingGun=Créateur de Pont !
+achievement.grapplingGun.desc=Craft un Pistolet Créateur de Pont, Un Crochet, Un Canon du Pistolet et un Réservoir
+achievement.buildBridge=Pont suspendu !
+achievement.buildBridge.desc=Construisez un pont suspendu avec votre nouveau pistolet
+
+#Messages
+chat.ropebridge.warning.breaking=ATTENTION! Brise le pont tout entier !
+chat.ropebridge.info.notonground=Vous devez être sur quelque chose pour construire un pont!
+chat.ropebridge.info.notcardinal=Désolé, le pont doit être construit dans une direction cardinale. Veuillez réessayer.
+chat.ropebridge.info.greatslope=Désolé, votre pente est trop grande. Veuillez réessayer.
+chat.ropebridge.info.obstruction=Oups ! On dirait qu'il y a quelque chose sur le chemin.
+
+# TODO Fixe la fumée! Cherchez la fumée pour voir où elle se trouve et réessayez.
+chat.ropebridge.info.underfunded_bridge=Vous avez besoin d'au moins %f de dalles et %f de corde pour construire ce pont.
+chat.ropebridge.info.underfunded_ladder=Vous avez besoin d'au moins %f de dalles et %f de corde pour construire cette échelle.
+chat.ropebridge.info.bad_side=Vous ne pouvez pas construire une échelle sur le %f d'un bloc. Essayez les côtés!
+chat.ropebridge.info.not_solid=Ce bloc ne peut pas supporter une échelle de corde de ce côté.
+chat.ropebridge.params.top=haut
+chat.ropebridge.params.bottom=bas
