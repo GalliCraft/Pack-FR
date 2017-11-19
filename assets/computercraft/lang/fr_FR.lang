@@ -1,0 +1,47 @@
+﻿// Blocs \\
+tile.computercraft:computer.name=Ordinateur
+tile.computercraft:advanced_computer.name=Ordinateur Avance
+tile.computercraft:drive.name=Lecteur de Disque
+tile.computercraft:printer.name=Printer
+tile.computercraft:monitor.name=Moniteur
+tile.computercraft:advanced_monitor.name=Moniteur Avance
+tile.computercraft:wireless_modem.name=Modem Sans fil
+tile.computercraft:wired_modem.name=Modem Cable
+tile.computercraft:cable.name=Cable Réseau
+tile.computercraft:command_computer.name=Ordinateur de Commande
+
+
+tile.computercraft:turtle.name=Tortue
+tile.computercraft:turtle.upgraded.name=Tortue de %s
+tile.computercraft:turtle.upgraded_twice.name=Tortue de %s %s
+tile.computercraft:advanced_turtle.name=Tortue
+ Avance
+tile.computercraft:advanced_turtle.upgraded.name=Tortue Avance de %s
+tile.computercraft:advanced_turtle.upgraded_twice.name=Tortue Avance de %s %s
+
+// Objets \\
+
+item.computercraft:disk.name=Disquette
+item.computercraft:treasure_disk.name=Disquette
+item.computercraft:page.name=Page Imprimee
+item.computercraft:pages.name=Pages Imprimees
+item.computercraft:book.name=Livre Imprime
+
+item.computercraft:pocket_computer.name=Ordinateur Portable
+item.computercraft:pocket_computer.upgraded.name=Ordinateur Portable
+ %s
+item.computercraft:advanced_pocket_computer.name=Ordinateur Portable Avance
+item.computercraft:advanced_pocket_computer.upgraded.name=Ordinateur Portable Avance %s
+
+// Adjectifs \\
+upgrade.minecraft:diamond_sword.adjective=Melee
+upgrade.minecraft:diamond_shovel.adjective=Creusement
+upgrade.minecraft:diamond_pickaxe.adjective=Minage
+upgrade.minecraft:diamond_axe.adjective=Abattage
+upgrade.minecraft:diamond_hoe.adjective=Agriculture
+upgrade.computercraft:wireless_modem.adjective=Sans fil
+upgrade.minecraft:crafting_table.adjective=Artisanat
+
+// GUI \\
+gui.computercraft:wired_modem.peripheral_connected=Peripherique "%s" conecte au reseau
+gui.computercraft:wired_modem.peripheral_disconnected=Peripherique "%s" deconecteur du reseau

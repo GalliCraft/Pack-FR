@@ -1,0 +1,40 @@
+jukebox.translated=Traduit par EvanG
+
+jukebox.title=Jukebox
+jukebox.play=Play
+jukebox.pause=Pause
+jukebox.unpause=Unpause
+jukeboxplaypause=Play/Pause
+jukebox.stop=Stop
+jukebox.previous=Precedant
+jukebox.next=Suivant
+
+jukebox.shuffle=Shuffle
+jukebox.volume=Volume
+jukebox.progress=Progress
+
+
+jukebox.root=Root
+
+jukebox.desktop=Bureau
+jukebox.home=Home
+jukebox.minecraftmusic=Misique Minecraft
+jukebox.parent=Dossier Parent
+jukebox.current=Current
+jukebox.currentdirectory=Dossier Current
+jukebox.nowplaying=En Lecture
+jukebox.optionstitle=Jukebox Options
+jukebox.onscreendisplay=On Screen Display
+jukebox.showhidden=Show Hidden Files
+
+jukebox.controls=Jukebox Controls
+
+key.jukebox.jukeboxmenu=Interface Jukebox
+key.jukebox.menu=Menu
+key.jukebox.previous=Precedant
+key.jukebox.playpause=Play/Pause
+key.jukebox.next=Suivant
+key.jukebox.volumeup=+ Volume
+
+key.jukebox.volumedown=- Volume
+

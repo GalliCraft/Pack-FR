@@ -1,0 +1,316 @@
+﻿//Tile-Normal\\
+tile.frsm_woodenLightBox.name=Wooden Light Box
+tile.frsm_stoneLightBox.name=Stone Light Box
+tile.frsm_decoBlock1.name=Decoration Block
+tile.frsm_decoBlock2.name=Decoration Block
+tile.frsm_framedGlowstone.name=Framed Glowstone
+tile.frsm_stoneSlabPillar.name=Stone Slab Pillar
+
+//Items\\
+
+//	Nouriture	\\
+item.frsm_cup.name=Tasse
+item.frsm_cupWithCacao.name=Café
+item.frsm_hamburger.name=Hamburger
+item.frsm_pizza.name=Pizza
+item.frsm_cheese.name=Fromage
+item.frsm_salami.name=Salami
+item.frsm_tomato.name=Tomate
+item.frsm_tomatoJar.name=Sauce Tomate
+item.frsm_jar.name=Recipient
+item.frsm_chocolateBar.name=Tablette de Chocolat
+item.frsm_chocolateMilk.name=Chocolat au Lait
+item.frsm_chocolateCookie.name=Cookie au Chocolat
+item.frsm_cookedEgg.name=Omelette
+item.frsm_stoneMug.name=Mug en Pierre
+item.frsm_stoneMugWithBeer.name=Bierre
+item.frsm_donut.name=Donut
+item.frsm_tomatoSeeds.name=Tomate Coupee
+item.frsm_cheeseWhite.name=White Cheese
+item.frsm_baconraw.name=Bacon (cru)
+item.frsm_bacon.name=Bacon
+item.frsm_chocolateBarWhite.name=Tablette de Chocolat Blanc
+item.frsm_tomatoSoup.name=Soupe de Tomate
+
+item.frsm_emeraldSword.name=Emerald Sword
+item.frsm_helmet1.name=Invisibility Helmet
+item.frsm_chestplate1.name=Ender Iron Chestplate
+item.frsm_emeraldBlade.name=Emerald Sword Blade
+item.frsm_prozessor.name=Processor
+item.frsm_prozessor2.name=Dual Core Processor
+item.frsm_prozessor4.name=Quad Core Processor
+item.frsm_tvScreenSmall.name=Small Screen
+item.frsm_redstoneInput.name=Redstone Input
+item.frsm_cheesePie.name=White Cheese Pie
+item.frsm_laptopMainboard.name=Laptop MainBoard
+item.frsm_pcMainboard.name=Desktop PC MainBoard
+item.frsm_notExistingStuffReplace.name=Not Existing Stuff Replace
+item.frsm_keyboard.name=Keyboard
+item.frsm_ironSaw.name=Iron Saw
+item.frsm_SRobo1B.name=T1R1B
+item.frsm_SRobo1BB.name=T1R1B
+item.frsm_SRobo1BG.name=T1R1B
+item.frsm_SRobo1BY.name=T1R1B
+item.frsm_SRobo2LR.name=T2R2L
+item.frsm_SRobo2LB.name=T2R2L
+item.frsm_upGradeKit.name=UpGrade Kit
+item.frsm_SRobo2LG.name=T2R2L
+item.frsm_SRobo2LY.name=T2R2L
+item.frsm_SRobo2MR.name=T2R2M
+item.frsm_SRobo2MB.name=T2R2M
+item.frsm_SRobo2MG.name=T2R2M
+item.frsm_SRobo2MY.name=T2R2M
+item.frsm_RRC.name=Robo Control
+item.frsm_RBC.name=Robo Control
+item.frsm_RGC.name=Robo Control
+item.frsm_RYC.name=Robo Control
+item.frsm_tvScreenMedium.name=Medium Screen
+item.frsm_tilesempty.name=Tiles (Empty)
+item.frsm_TVController.name=TV Controller
+
+//Tile-Custom\\
+tile.frsm_tbm.name=TBM =Test Block Model
+tile.frsm_crate.name=Crate
+tile.frsm_tvs.name=Small TV
+tile.frsm_kd1.name=Kitchen Decoration (1)
+tile.frsm_wb.name=Work Bench
+tile.frsm_laptop.name=Laptop
+tile.frsm_pchardware2.name=PC Monitor, Keyboard & Mouse
+tile.frsm_pchardware1.name=PC Hardware
+tile.frsm_laptop-white.name=Laptop (White)
+tile.frsm_printer.name=Printer
+tile.frsm_laptopGreen.name=Laptop (Green)
+tile.frsm_washingmashine.name=Washing Mashine
+tile.frsm_Toaster.name=Toaster
+tile.frsm_Stove.name=Stove
+tile.frsm_rail.name=(Model) Rail
+tile.frsm_railturn.name=(Model) Rail Turn
+tile.frsm_Train1D.name=Test Locomotive
+tile.frsm_Car1D.name=Model Car (1)
+tile.frsm_laptopRed.name=Laptop (Red)
+tile.frsm_laptopBlue.name=Laptop (Blue)
+tile.frsm_pchardware2b.name=PC Monitor, Keyboard & Mouse
+tile.frsm_pchardware1b.name=PC Hardware
+tile.frsm_laptopBlack.name=Laptop (Black)
+tile.frsm_TVM.name=Medium TV
+tile.frsm_KD2.name=Kitchen Decoration (2)
+tile.frsm_tiles.name=Tiles (Grey design)
+tile.frsm_tiles2.name=Tiles with GlowStone (Grey design)
+tile.frsm_tiles3.name=Stonebrick Tiles
+tile.frsm_tiles4.name=Tiles (Grey Design)
+
+//Creative-Tabs\\
+itemGroup.tabFRSM=FRSM - Blocks & Decoration
+itemGroup.tabFRSM-Food=FRSM - Nouriture & Boisson
+itemGroup.tabFRSM-Materials=FRSM - Materials, Parts & Unsorted Stuff
+itemGroup.tabFRSM-Swords=FRSM - Swords, Armor & Tools
+itemGroup.tabFRSM-Technic=FRSM - Technical Stuff (Blocks)
+itemGroup.tabFRSM-Model=FRSM - Model & Toys
+itemGroup.tabFRSM-Dev=FRSM - Dev. Stuff - Use on own Resposability!
+
+/////////////////////////////////////
+To make translation more easy... from any highter version than 1.87b
+new stuff will be in this order...
+////////////////////////////////////
+
+//1.91-beta//
+tile.frsm_busstop.name=Bus Stop Sign
+tile.frsm_busstation.name=Bus Station
+tile.frsm_trashcan.name=Trashcan
+
+//2.08-NF//
+tile.frsm_vendingmachine.name=Vending Machine
+item.frsm_SRobo2HR.name=T2R2H
+item.frsm_SRobo2HB.name=T2R2H
+item.frsm_SRobo2HG.name=T2R2H
+item.frsm_SRobo2HY.name=T2R2H
+item.frsm_patatoChipsBag.name=Potato Chips Bag
+tile.frsm_station.name=Rail Station (1)
+tile.frsm_station2.name=Rail Station (2)
+tile.frsm_station3.name=Rail Station (3) with Light 
+
+//2.34-NF//
+item.frsm_SRobo1BP.name=T1R1B
+itemGroup.tabFRSM-Robo=FRSM - Robo Stuff
+item.frsm_SRobo2LP.name=T2R2L
+item.frsm_SRobo2MP.name=T2R2M
+item.frsm_SRobo2HP.name=T2R2H
+item.frsm_RPC.name=Robo Control
+item.frsm_potatoChipsCheese.name=Cheese Potato Chips
+item.frsm_SRobo2JR.name=T2R2J
+item.frsm_SRobo2JB.name=T2R2J
+item.frsm_SRobo2JG.name=T2R2J
+item.frsm_SRobo2JY.name=T2R2J
+item.frsm_SRobo2JP.name=T2R2J
+tile.frsm_Radio1.name=Radio
+tile.frsm_cupG.name=Gold Cup
+
+//2.60-NF//
+item.frsm_SRobo3LR.name=T3R3L
+item.frsm_SRobo3LB.name=T3R3L
+item.frsm_SRobo3LG.name=T3R3L
+item.frsm_SRobo3LY.name=T3R3L
+item.frsm_SRobo3LP.name=T3R3L
+item.frsm_SRobo3LJR.name=T3R3LJ
+item.frsm_SRobo3LJB.name=T3R3LJ
+item.frsm_SRobo3LJG.name=T3R3LJ
+item.frsm_SRobo3LJY.name=T3R3LJ
+item.frsm_SRobo3LJP.name=T3R3LJ
+tile.frsm_laptopG.name=Golden Laptop
+tile.frsm_window.name=Window
+tile.frsm_pillar.name=Quartz Pillar
+
+//2.63h-NF//
+tile.frsm_glassslab.name=Glass Slab
+tile.frsm_pillar2.name=Quartz Pillar
+
+//2.90-NF//
+tile.frsm_pillar3.name=Quartz Pillar
+item.frsm_SRobo3MR.name=T3R3M
+item.frsm_SRobo3MB.name=T3R3M
+item.frsm_SRobo3MG.name=T3R3M
+item.frsm_SRobo3MY.name=T3R3M
+item.frsm_SRobo3MP.name=T3R3M
+item.frsm_SLRR1R.name=T3LRR1
+item.frsm_SLRR1B.name=T3LRR1
+item.frsm_SLRR1G.name=T3LRR1
+item.frsm_SLRR1Y.name=T3LRR1
+item.frsm_SLRR1P.name=T3LRR1
+tile.frsm_asphalt.name=Asphalt Street Block
+tile.frsm_officechair.name=Office Chair
+tile.frsm_officechairB.name=Office Chair
+tile.frsm_officechairG.name=Office Chair
+tile.frsm_officechairW.name=Office Chair
+tile.frsm_officechairT.name=Office Chair
+
+//3.34-MR//
+tile.frsm_lamp.white.name=White Lamp
+tile.frsm_lamp.orange.name=Orange Lamp
+tile.frsm_lamp.magenta.name=Magenta Lamp
+tile.frsm_lamp.lightblue.name=Light Blue Lamp
+tile.frsm_lamp.yellow.name=Yellow Lamp
+tile.frsm_lamp.lightgreen.name=Light Green Lamp
+tile.frsm_lamp.pink.name=Pink Lamp
+tile.frsm_lamp.grey.name=Grey Lamp
+tile.frsm_lamp.lightgrey.name=Light Grey Lamp
+tile.frsm_lamp.cyan.name=Cyan Lamp
+tile.frsm_lamp.purple.name=Purple Lamp
+tile.frsm_lamp.blue.name=Blue Lamp
+tile.frsm_lamp.brown.name=Brown Lamp
+tile.frsm_lamp.green.name=Green Lamp
+tile.frsm_lamp.red.name=Red Lamp
+tile.frsm_lamp.black.name=Black Lamp
+item.frsm_SRobo3JR.name=T3R3J
+item.frsm_SRobo3JB.name=T3R3J
+item.frsm_SRobo3JG.name=T3R3J
+item.frsm_SRobo3JY.name=T3R3J
+item.frsm_SRobo3JP.name=T3R3J
+
+//3.70-MR//
+tile.frsm_decoBlock1.white.name=White Decoration Block
+tile.frsm_decoBlock1.orange.name=Orange Decoration Block
+tile.frsm_decoBlock1.magenta.name=Magenta Decoration Block
+tile.frsm_decoBlock1.lightblue.name=Light Blue Decoration Block
+tile.frsm_decoBlock1.yellow.name=Yellow Decoration Block
+tile.frsm_decoBlock1.lightgreen.name=Light Green Decoration Block
+tile.frsm_decoBlock1.pink.name=Pink Decoration Block
+tile.frsm_decoBlock1.grey.name=Grey Decoration Block
+tile.frsm_decoBlock1.lightgrey.name=Light Grey Decoration Block
+tile.frsm_decoBlock1.cyan.name=Cyan Decoration Block
+tile.frsm_decoBlock1.purple.name=Purple Decoration Block
+tile.frsm_decoBlock1.blue.name=Blue Decoration Block
+tile.frsm_decoBlock1.brown.name=Brown Decoration Block
+tile.frsm_decoBlock1.green.name=Green Decoration Block
+tile.frsm_decoBlock1.red.name=Red Decoration Block
+tile.frsm_decoBlock1.black.name=Black Decoration Block
+tile.frsm_fence1.name=Iron Fence
+tile.frsm_fence1b.name=Iron Fence
+
+//4.44-PTW//
+item.frsm_paintBucket.name=Paint Bucket
+item.frsm_paintSet0.name=Paint Set
+item.frsm_brush.name=Brush
+item.frsm_paintSet1.name=Paint Set
+item.frsm_paintSet2.name=Paint Set
+item.frsm_paintSet3.name=Paint Set
+item.frsm_paintSet4.name=Paint Set
+item.frsm_paintSet5.name=Paint Set
+item.frsm_paintSet6.name=Paint Set
+item.frsm_paintSet7.name=Paint Set
+item.frsm_paintSet8.name=Paint Set
+item.frsm_paintSet9.name=Paint Set
+item.frsm_paintSet10.name=Paint Set
+item.frsm_paintSet11.name=Paint Set
+item.frsm_paintSet12.name=Paint Set
+item.frsm_paintSet13.name=Paint Set
+item.frsm_paintSet14.name=Paint Set
+item.frsm_paintSet15.name=Paint Set
+
+//4.56//
+tile.frsm_RCT.name=Robo Crafting Table
+itemGroup.tabFRSM-RC=FRSM - Robo Crafting
+tile.frsm_flag0.name=White Flag
+itemGroup.tabFRSM-Faction=FRSM - Factions Stuff
+tile.frsm_flag1.name=Orange Flag
+
+//4.70//
+tile.frsm_aie.name=AI Extractor (I)
+item.frsm_aic_empty.name=AI Chip
+item.frsm_aic_Z1.name=AI Chip
+item.frsm_r1_chassis.name=R1 Chassis
+tile.frsm_flag2.name=Magenta Flag
+
+//4.82//
+tile.frsm_chimney.brick.name=Brick Chimney
+tile.frsm_chimney.stonebrick.name=Stone Brick Chimney
+tile.frsm_chimney.netherbrick.name=Nether Brick Chimney
+tile.frsm_chimney.sandstone.name=Sandstone Chimney
+tile.frsm_chimney.endstone.name=EndStone Chimney
+tile.frsm_flag3.name=Light Blue Flag
+
+//4.99//
+tile.frsm_lampOff.white.name=White Lamp (Off)
+tile.frsm_lampOff.orange.name=Orange Lamp (Off)
+tile.frsm_lampOff.magenta.name=Magenta Lamp (Off)
+tile.frsm_lampOff.lightblue.name=Light Blue Lamp (Off)
+tile.frsm_lampOff.yellow.name=Yellow Lamp (Off)
+tile.frsm_lampOff.lightgreen.name=Lime Lamp (Off)
+tile.frsm_lampOff.pink.name=Pink Lamp (Off)
+tile.frsm_lampOff.grey.name=Gray Lamp (Off)
+tile.frsm_lampOff.lightGrey.name=Light Grey Lamp (Off)
+tile.frsm_lampOff.cyan.name=Cyan Lamp (Off)
+tile.frsm_lampOff.purple.name=Purple Lamp (Off)
+tile.frsm_lampOff.blue.name=Blue Lamp (Off)
+tile.frsm_lampOff.brown.name=Brown Lamp (Off)
+tile.frsm_lampOff.green.name=Green Lamp (Off)
+tile.frsm_lampOff.red.name=Red Lamp (Off)
+tile.frsm_lampOff.black.name=Black Lamp (Off)
+
+//5.00//
+tile.frsm_placeholder.name=PlaceHolder Block
+
+//5.01//
+tile.frsm_status.name=FRSM Status
+tile.frsm_asphalt2.name=Asphalt
+
+//5.09//
+tile.frsm_Furnance1.name=Furnance
+
+//5.17//
+tile.frsm_palet1x1.name=Palet
+tile.frsm_palet1x1_1.name=Palet
+tile.frsm_palet1x1_2.name=Palet
+item.frsm_planks_oak.name=Oak Planks
+
+//5.22//
+tile.frsm_TVL.name=Large TV
+item.frsm_tvScreenLarge.name=Large Screen
+
+//5.25//
+tile.frsm_TVL_1.name=Large TV
+
+//5.29//
+tile.frsm_Bench1.name=Bench
+tile.frsm_Bench1_1.name=Bench
+tile.frsm_Bench1_2.name=Bench
+tile.frsm_Bench1_3.name=Bench

@@ -1,0 +1,125 @@
+﻿//Blocs
+tile.copper_ore.name=Minerai de Cuivre
+tile.copper_block.name=Bloc de Cuivre
+tile.tin_ore.name=Minerai d'Etain
+tile.tin_block.name=Bloc d'Etain
+tile.mythril_ore.name=Minerai de Mythril
+tile.mythril_block.name=Bloc de Mythril
+tile.adamantium_ore.name=Minerai d'Adamantium
+tile.adamantium_block.name=Bloc d'Adamantium
+tile.onyx_ore.name=Minerai d'Onyx
+tile.onyx_block.name=Bloc d'Onyx
+tile.mythril_furnace.name=Four en Mythril
+tile.mythril_furnace_lit.name=Four en Mythril
+tile.onyx_furnace.name=Four en Onyx
+tile.onyx_furnace_lit.name=Four en Onyx
+tile.copper_door_block.name=Porte en Cuivre
+tile.onyx_door_block.name=Porte en Onyx
+tile.copper_bars.name=Barreaux en Cuivre
+tile.tin_bars.name=Barreaux en Etain
+tile.mythril_bars.name=Barreaux en Mythril
+tile.adamantium_bars.name=Barreaux en Adamantium
+tile.onyx_bars.name=Barreaux en Onyx
+
+//Objets
+item.copper_ingot.name=Lingot de Cuivre
+item.tin_ingot.name=Lingot d'Etain
+item.mythril_ingot.name=Lingot de Mythril
+item.adamantium_ingot.name=Lingot d'Adamantium
+item.onyx_gem.name=Onyx
+item.copper_bucket.name=Seau en Cuivre
+item.copper_bucket_water.name=Seau d'eau en Cuivre
+item.mythril_rod.name=Barre en Mythril
+item.onyx_rod.name=Barre en Onyx
+item.copper_door.name=Porte en Cuivre
+item.onyx_door.name=Porte en Onyx
+
+//Outils
+item.copper_pickaxe.name=Pioche en Cuivre
+item.copper_axe.name=Hache en Cuivre
+item.copper_shovel.name=Pelle en Cuivre
+item.copper_sword.name=Epee en Cuivre
+item.copper_hoe.name=Houe en Cuivre
+item.tin_pickaxe.name=Pioche en Etain
+item.tin_axe.name=Hache en Etain
+item.tin_shovel.name=Pelle en Etain
+item.tin_sword.name=Epee en Etain
+item.tin_hoe.name=Houe en Etain
+item.mythril_pickaxe.name=Pioche en Mythril
+item.mythril_axe.name=Hache en Mythril
+item.mythril_shovel.name=Pelle en Mythril
+item.mythril_sword.name=Epee en Mythril
+item.mythril_hoe.name=Houe en Mythril
+item.adamantium_pickaxe.name=Pioche en Adamantium
+item.adamantium_axe.name=Hache en Adamantium
+item.adamantium_shovel.name=Pelle en Adamantium
+item.adamantium_sword.name=Epee en Adamantium
+item.adamantium_hoe.name=Houe en Adamantium
+item.onyx_pickaxe.name=Pioche en Onyx
+item.onyx_axe.name=Hache en Onyx
+item.onyx_shovel.name=Pelle en Onyx
+item.onyx_sword.name=Epee en Onyx
+item.onyx_hoe.name=Houe en Onyx
+item.mythril_bow.name=Arc en Mythril
+item.onyx_bow.name=Arc en Onyx
+item.tin_shears.name=Cisaille en Etain
+item.adamantium_shears.name=Cisaille en Adamantium
+item.onyx_shears.name=Cisaille en Onyx
+
+//Armures
+item.copper_helmet.name=Casque en Cuivre
+item.copper_chestplate.name=Plastron en Cuivre
+item.copper_leggings.name=Pantalon en Cuivre
+item.copper_boots.name=Botte en Cuivre
+item.tin_helmet.name=Casque en Etain
+item.tin_chestplate.name=Plastron en Etain
+item.tin_leggings.name=Pantalon en Etain
+item.tin_boots.name=Botte en Etain
+item.mythril_helmet.name=Casque en Mythril
+item.mythril_chestplate.name=Plastron en Mythril
+item.mythril_leggings.name=Pantalon en Mythril
+item.mythril_boots.name=Botte en Mythril
+item.adamantium_helmet.name=Casque en Adamantium 
+item.adamantium_chestplate.name=Plastron en Adamantium
+item.adamantium_leggings.name=Pantalon en Adamantium
+item.adamantium_boots.name=Botte en Adamantium
+item.onyx_helmet.name=Casque en Onyx
+item.onyx_chestplate.name=Plastron en Onyx
+item.onyx_leggings.name=Pantalon en Onyx
+item.onyx_boots.name=Botte en Onyx
+
+//Achievements
+achievement.simpleOresAch=Bienvenue sur SimpleOres!
+achievement.simpleOresAch.desc=Commencez votre aventure SimpleOres en recoltant du cuivre
+achievement.adamantiumAch=Le Minerai vert
+achievement.adamantiumAch.desc=Creuser profondément pour trouver de l'Adamantium
+achievement.onyxAch=Le minerai Camouflé
+achievement.onyxAch.desc=Bonne chance pour en trouver
+achievement.ironPickAch=MAJ MK II
+achievement.ironPickAch.desc=Construire une Pioche de fer
+achievement.adamantiumPickAch=Rapide comme l'eclair!
+achievement.adamantiumPickAch.desc=Faire une Pioche en Adamantium pour creuser plus rapidement que jamais
+achievement.onyxPickAch=L'Inviolable
+achievement.onyxPickAch.desc=Il y a de bonnes chances que vous y survivrait
+achievement.mythrilBowAch=Arc Mythique
+achievement.mythrilBowAch.desc=Forge un nouvel arc avec des proprietes magiques
+achievement.onyxBowAch=Pyromane
+achievement.onyxBowAch.desc=Bruler vos ennemis avec cet arc des Enfers
+
+//Noms des CreativeTab
+itemGroup.tabSimpleBlocks=Blocs SimpleOres
+itemGroup.tabSimpleDecorations=Decorations SimpleOres
+itemGroup.tabSimpleTools=Outils SimpleOres
+itemGroup.tabSimpleCombat=Armure SimpleOres
+itemGroup.tabSimpleMaterials=Materiel SimpleOres
+
+//Propriété Arc
+tips.damageTooltip=+Degat
+tips.flameTooltip=+Feu
+tips.knockbackTooltip=+Recul
+tips.zoomTooltip=+Zoom
+tips.efficiencyTooltip=+Efficacite
+
+//MAJ
+simpleores.updateMessage1=§3SimpleOres §rn'est pas a jour. La dernière version est la §c
+simpleores.updateMessage2=§r. SVP mettre à jour §9http://bit.ly/SimpleOres

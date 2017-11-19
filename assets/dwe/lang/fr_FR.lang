@@ -1,0 +1,19 @@
+﻿itemGroup.tabDWE=FRSM:DWE - Extention Monde Detruit
+itemGroup.tabDWE-Food=FRSM:DWE - Nouriture Pouris
+//
+tile.dwe_laptop.name=Vieux Ordinateur Detruit
+tile.dwe_asphalt.0.name=Decayed Asphalt (0)
+tile.dwe_asphalt.1.name=Decayed Asphalt (1)
+tile.dwe_asphalt.2.name=Decayed Asphalt (2)
+tile.dwe_asphalt.3.name=Decayed Asphalt (3)
+tile.dwe_asphalt.4.name=Decayed Asphalt (4)
+tile.dwe_asphalt.5.name=Decayed Asphalt (5)
+tile.dwe_asphalt.6.name=Decayed Asphalt (6)
+tile.dwe_asphalt.7.name=Decayed Asphalt (7)
+tile.dwe_stonebrick.name=Decayed Stonebrick
+tile.dwe_laptopWhite.name=Vieux Ordinateur Blanc Detruit
+//
+item.dwe_decaySwitcher.name=Decay Switcher (rotation)
+item.dwe_decaySwitcher2.name=Decay Switcher (texture)
+item.dwe_hamburger.name=Vieux Hamburger
+item.dwe_bacon.name=Vieux Bacon

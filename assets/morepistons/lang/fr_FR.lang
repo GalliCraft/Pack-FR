@@ -1,0 +1,44 @@
+﻿# TAB Créatif
+itemGroup.Pistons=Pistons
+
+# Piston Sauteur
+tile.morepistons:gravitationalpistonbase.name=Piston Sauteur
+tile.morepistons:gravitationalstickypistonbase.name=Piston Sauteur Colant
+
+# Pistons Normaux
+tile.morepistons:doublepistonbase.name=Piston 2 Blocs
+tile.morepistons:triplepistonbase.name=Piston 3 Blocs
+tile.morepistons:quadruplepistonbase.name=Piston 4 Blocs
+tile.morepistons:quintuplepistonbase.name=Piston 5 Blocs
+tile.morepistons:sextuplepistonbase.name=Piston 6 Blocs
+tile.morepistons:septuplepistonbase.name=Piston 7 Blocs
+tile.morepistons:octuplepistonbase.name=Piston 8 Blocs
+
+# Pistons Colant Normaux
+tile.morepistons:doublestickypistonbase.name=Piston Colant 2 Blocs
+tile.morepistons:triplestickypistonbase.name=Piston Colant 3 Blocs
+tile.morepistons:quadruplestickypistonbase.name=Piston Colant 4 Blocs
+tile.morepistons:quintuplestickypistonbase.name=Piston Colant 5 Blocs
+tile.morepistons:sextuplestickypistonbase.name=Piston Colant 6 Blocs
+tile.morepistons:septuplestickypistonbase.name=Piston Colant 7 Blocs
+tile.morepistons:octuplestickypistonbase.name=Piston Colant 8 Blocs
+
+# Super Pistons
+tile.morepistons:superpistonbase.name=Super Piston 1 Bloc
+tile.morepistons:superdoublepistonbase.name=Super Piston 2 Blocs
+tile.morepistons:supertriplepistonbase.name=Super Piston 3 Blocs
+tile.morepistons:superquadruplepistonbase.name=Super Piston 4 Blocs
+tile.morepistons:superquintuplepistonbase.name=Super Piston 5 Blocs
+tile.morepistons:supersextuplepistonbase.name=Super Piston 6 Blocs
+tile.morepistons:superseptuplepistonbase.name=Super Piston 7 Blocs
+tile.morepistons:superoctuplepistonbase.name=Super Piston 8 Blocs
+
+# Super Pistons Colant
+tile.morepistons:superstickypistonbase.name=Super Piston Colant 1 Bloc
+tile.morepistons:superdoublestickypistonbase.name=Super Piston Colant 2 Blocs
+tile.morepistons:supertriplestickypistonbase.name=Super Piston Colant 3 Blocs
+tile.morepistons:superquadruplestickypistonbase.name=Super Piston Colant 4 Blocs
+tile.morepistons:superquintuplestickypistonbase.name=Super Piston Colant 5 Blocs
+tile.morepistons:supersextuplestickypistonbase.name=Super Piston Colant 6 Blocs
+tile.morepistons:superseptuplestickypistonbase.name=Super Piston Colant 7 Blocs
+tile.morepistons:superoctuplestickypistonbase.name=Super Piston Colant 8 Blocs

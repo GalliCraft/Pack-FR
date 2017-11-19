@@ -1,0 +1,9 @@
+tile.frsm_ce_Clock2.name=Horloge
+tile.frsm_ce_Calendar1.name=Calendrier
+item.frsm_ce_universal_tool.name=Outil Universel du Temps
+tile.frsm_ce_Clock1C.name=Horloge
+tile.frsm_ce_Clock2C.name=Horloge
+tile.frsm_ce_Calendar1C.name=Calendrier
+tile.frsm_ce_Clock3_W.name=Horloge
+tile.frsm_ce_Clock3_B.name=Horloge
+itemGroup.tabCE.name=FRSM: Calender Extension

@@ -1,0 +1,210 @@
+﻿
+
+// Blocs \\
+tile.air.name=Air
+
+tile.computercraftedu:beginner_turtle.name=Tortue du Debutant
+tile.computercraftedu:beginner_turtle.upgraded.name=Tortue de %s du Debutant
+tile.computercraftedu:beginner_turtle.upgraded_twice.name=Beginner's %s %s Turtle
+
+
+tile.computercraftedu:turtleBuildAllow.name=Turtle build allow block
+
+tile.computercraftedu:turtleBuildDisallow.name=Turtle build disallow block
+
+tile.computercraftedu:turtleBorder.name=Turtle border block
+
+tile.computercraftedu:turtleAntiBorder.name=Turtle border stop block
+
+
+
+// GUI \\
+gui.computercraftedu:remote.no_remote=Vous avez besoin d'un Controleur Sans Fil pour Tortue!
+gui.computercraftedu:remote.remote_not_bound=Have you seen any Turtles around?
+gui.computercraftedu:remote.picked_up=You picked up a Turtle Remote Control!
+
+gui.computercraftedu:remote.turtles_disabled=Turtles have been disabled
+gui.computercraftedu:remote.visual_editor_disabled=The Visual Editor has been disabled
+gui.computercraftedu:remote.turtles_stopped=Turtles have been stopped
+
+gui.computercraftedu:remote.remote=Remote
+gui.computercraftedu:remote.customize=Customize
+gui.computercraftedu:remote.inventory=Inventaire
+gui.computercraftedu:remote.program=Programme
+gui.computercraftedu:remote.unlocked_click_to_lock=Débloqué - Cliquer pour Bloqué
+gui.computercraftedu:remote.locked_click_to_unlock=Bloqué - Cliquer pour Débloqué
+gui.computercraftedu:remote.locked_click_to_demo=Turtle Locked - Cliquer pour entrer dans le Mode Demo
+gui.computercraftedu:remote.demo_click_to_unlock=Mode Demo - Cliquer pour Débloqué
+gui.computercraftedu:remote.locked=Bloqué
+gui.computercraftedu:remote.locked_by=Bloqué par %s
+gui.computercraftedu:remote.owned=Owned
+gui.computercraftedu:remote.owned_by=Locked by %s
+gui.computercraftedu:remote.recall=Undo Last Program
+gui.computercraftedu:remote.show_turtle_view=Voir la vue de la Tortue
+gui.computercraftedu:remote.show_normal_view=Voir la vue Normal
+gui.computercraftedu:remote.run=Lancer le Programme
+gui.computercraftedu:remote.debug=Step Through Program
+gui.computercraftedu:remote.stop=Aretter le Programme
+gui.computercraftedu:remote.abort=Abort Program
+gui.computercraftedu:remote.pause=Pause Program
+gui.computercraftedu:remote.resume=Resume Program
+gui.computercraftedu:remote.step=Lnacer la Prochaine Etape
+gui.computercraftedu:remote.next_color=Couleur Suivante
+gui.computercraftedu:remote.previous_color=Couleur Precedente
+gui.computercraftedu:remote.next_trinket=Next Decoration
+gui.computercraftedu:remote.previous_trinket=Previous Decoration
+gui.computercraftedu:remote.turtle=Tortue
+gui.computercraftedu:remote.visual_view=Editeur Visuel
+gui.computercraftedu:remote.code_view=Editeur de Code
+gui.computercraftedu:remote.library=Bibliotheque
+gui.computercraftedu:remote.current_players_library=Ma Bibliotheque
+gui.computercraftedu:remote.other_players_library=Bibliotheque de %s
+gui.computercraftedu:remote.library.new=Nouveau
+gui.computercraftedu:remote.library.delete=Supprimer "%s"
+gui.computercraftedu:remote.library.create_new=Crer un Nouveau Programme
+gui.computercraftedu:remote.library.default_name=Sans Nom
+gui.computercraftedu:remote.default_comment=Ecrivez votre Message Ici
+gui.computercraftedu:remote.default_variable_name=X
+gui.computercraftedu:remote.default_string=Bonjour tout le monde!
+gui.computercraftedu:remote.close=Fermer
+gui.computercraftedu:remote.ok=OK
+gui.computercraftedu:remote.cancel=Annule
+gui.computercraftedu:remote.yes=Oui
+gui.computercraftedu:remote.no=Non
+gui.computercraftedu:remote.revert_warning=Passer à l'éditeur Visuel effacera les modifications apportées à "%s"
+gui.computercraftedu:remote.delete_warning=Etes vous sur de vouloir supprimer "%s"?
+gui.computercraftedu:remote.undo_warning=This will undo %s block changes. Are you sure?
+gui.computercraftedu:remote.program_running=Exécution du Programme
+gui.computercraftedu:remote.program_errored=Program Errored
+gui.computercraftedu:remote.turtle_too_far=Tortue Trop Loin
+gui.computercraftedu:remote.no_program=Aucun programme sélectionné
+gui.computercraftedu:remote.export=Copier "% s" sur le disque
+gui.computercraftedu:remote.export_to_all=Donne "% s" à tous les joueurs
+
+gui.computercraftedu:syntax_error.generic=Syntax Error
+gui.computercraftedu:syntax_error.missing=Missing %s
+gui.computercraftedu:syntax_error.expected=Expected %s
+gui.computercraftedu:syntax_suggestion.required=Click to add %s (Required)
+gui.computercraftedu:syntax_suggestion.optional=Click to add %s
+gui.computercraftedu:syntax_suggestion.required.keyboard=Press TAB to add %s (Required)
+gui.computercraftedu:syntax_suggestion.optional.keyboard=Press TAB to add %s
+gui.computercraftedu:syntax_suggestion.required.locked=Missing %s (Required)
+gui.computercraftedu:syntax_suggestion.optional.locked=Missing %s
+gui.computercraftedu:list_seperator=,
+gui.computercraftedu:final_list_seperator= or
+gui.computercraftedu:icon_category.variable=Variable
+gui.computercraftedu:icon_category.statement=Statement
+gui.computercraftedu:icon_category.single_line_statement=Statement
+gui.computercraftedu:icon_category.multi_line_statement=Statement
+gui.computercraftedu:icon_category.expression=Expression
+gui.computercraftedu:icon_category.boolean_expression=Boolean
+gui.computercraftedu:icon_category.numeric_expression=Number
+gui.computercraftedu:icon_category.string_expression=String
+gui.computercraftedu:icon_category.operator=Operator
+gui.computercraftedu:icon_category.boolean_operator=Boolean Operator
+gui.computercraftedu:icon_category.numeric_operator=Numeric Operator
+gui.computercraftedu:icon_category.string_operator=String Operator
+gui.computercraftedu:icon_category.if=If
+gui.computercraftedu:icon_category.then=Then
+gui.computercraftedu:icon_category.else_if=Else If
+gui.computercraftedu:icon_category.else=Else
+gui.computercraftedu:icon_category.end=End
+gui.computercraftedu:icon_category.while=While
+gui.computercraftedu:icon_category.do=Do
+gui.computercraftedu:icon_category.for=For
+gui.computercraftedu:icon_category.to=To
+gui.computercraftedu:icon_category.repeat=Repeat
+gui.computercraftedu:icon_category.break=Break
+gui.computercraftedu:icon_category.assign=Equals
+
+key.computercraftedu.open_turtle_remote=Access Turtle Remote
+key.computercraftedu.drop_turtle_remote=Drop Turtle Remote
+
+// Objets \\
+item.computercraftedu:remote.name=Controleur Sans Fil pour Tortue
+item.computercraftedu:moveForward.name=Avancer
+item.computercraftedu:moveBack.name=Reculer
+item.computercraftedu:turnLeft.name=Tourner a Gauche
+item.computercraftedu:turnRight.name=Tourner a Droite
+item.computercraftedu:moveUp.name=Monter
+item.computercraftedu:moveDown.name=Dessendre
+item.computercraftedu:dig.name=Creuser
+item.computercraftedu:digUp.name=Creuser au Dessus
+item.computercraftedu:digDown.name=Creuser en Dessous
+item.computercraftedu:dig_locked.name=Creuser (Requiert un Objet)
+item.computercraftedu:digUp_locked.name=Creuser au Dessus (Requiert un Objet)
+item.computercraftedu:digDown_locked.name=Creuser en Dessous (Requiert un Objet)
+item.computercraftedu:place.name=Poser
+item.computercraftedu:placeUp.name=Poser au Dessus
+item.computercraftedu:placeDown.name=Poser en Dessous
+item.computercraftedu:if.name=Si
+item.computercraftedu:then.name=Then
+item.computercraftedu:end.name=Fin
+item.computercraftedu:while.name=While
+item.computercraftedu:do.name=Faire
+item.computercraftedu:and.name=Et
+item.computercraftedu:or.name=Ou
+item.computercraftedu:else.name=Sinon
+item.computercraftedu:elseIf.name=Sinon Si
+item.computercraftedu:not.name=Not
+item.computercraftedu:detect.name=Detecter
+item.computercraftedu:detectUp.name=Detecter au Dessus
+item.computercraftedu:detectDown.name=Detecter en Dessous
+item.computercraftedu:true.name=Vraie
+item.computercraftedu:false.name=Faux
+item.computercraftedu:random.name=Boolean au Hasard
+item.computercraftedu:randomNumber.name=Nombre au Hasard:
+item.computercraftedu:select.name=Select Slot:
+item.computercraftedu:drop.name=Dropper les Objets
+item.computercraftedu:suck.name=Take Items
+item.computercraftedu:attack.name=Attaquer
+item.computercraftedu:attackUp.name=Attaquer au Dessus
+item.computercraftedu:attackDown.name=Attaquer en Dessous
+item.computercraftedu:attack_locked.name=Attaquer (Requiert un Objet)
+item.computercraftedu:attackUp_locked.name=Attaquer au Dessus (Requiert un Objet)
+item.computercraftedu:attackDown_locked.name=Attaquer en Dessous (Requiert un Objet)
+item.computercraftedu:equipLeft.name=Swap Left Tool
+item.computercraftedu:queryRedstone.name=Detecter de la Redstone
+item.computercraftedu:queryRedstoneUp.name=Detecter de la Redstone au Dessus
+item.computercraftedu:queryRedstoneDown.name=Detecter de la Redstone en Dessous
+item.computercraftedu:setRedstone.name=Poser de la Redstone:
+item.computercraftedu:setRedstoneUp.name=Set Redstone Up:
+item.computercraftedu:setRedstoneDown.name=Set Redstone Down:
+item.computercraftedu:equipRight.name=Swap Right Tool
+item.computercraftedu:comment.name=Comment
+item.computercraftedu:equalTo.name=Egal
+item.computercraftedu:notEqualTo.name=N'est pas Egal
+item.computercraftedu:greaterThan.name=C'est plus grand que
+item.computercraftedu:lessThan.name=C'est plus petit que
+item.computercraftedu:greaterThanOrEqualTo.name=C'est plus grand que ou egal à
+item.computercraftedu:lessThanOrEqualTo.name=C'est plus petit que ou egal à
+item.computercraftedu:dropUp.name=Drop Items Up
+item.computercraftedu:dropDown.name=Drop Items Down
+item.computercraftedu:suckUp.name=Take Items From Above
+item.computercraftedu:suckDown.name=Take Items From Below
+item.computercraftedu:variable.name=Variable
+item.computercraftedu:number.name=Nombre
+item.computercraftedu:plus.name=Plus
+item.computercraftedu:minus.name=Moins
+item.computercraftedu:dividedBy.name=Diviser par
+item.computercraftedu:getItemCount.name=Item Count
+item.computercraftedu:for.name=For
+item.computercraftedu:to.name=To
+item.computercraftedu:repeat.name=Repeter
+item.computercraftedu:break.name=Break
+item.computercraftedu:compare.name=Comparer
+item.computercraftedu:compareUp.name=Compare Up
+item.computercraftedu:compareDown.name=Compare Down
+item.computercraftedu:times.name=Multiplier par
+item.computercraftedu:programDisk.name=Lancer le programme
+item.computercraftedu:programDisk.name.specific=Lancer "%s"
+item.computercraftedu:inspect.name=Inspect Block
+item.computercraftedu:inspectUp.name=Inspect Block Above
+item.computercraftedu:inspectDown.name=Inspect Block Below
+item.computercraftedu:block.name=Nom du Bloc
+item.computercraftedu:inspectSlot.name=Inspect Item
+item.computercraftedu:item.name=Nom de l'Objet
+item.computercraftedu:say.name=Dire:
+item.computercraftedu:string.name=String
+
+item.computercraftedu:exportedProgramDisk.name=Program Disk

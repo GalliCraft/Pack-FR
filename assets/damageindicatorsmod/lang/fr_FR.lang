@@ -1,0 +1,18 @@
+#Damage Indicators Language File
+mod.damageindicatorsmod.name=Damage Indicators
+
+translation.particle.critical=Critique!
+translation.gui.damagecolor=Couleur de Dégat
+translation.gui.healcolor=Couleur de sa vie
+translation.gui.dragme=Glissez-Moi
+translation.gui.optperfdecrease=Cette option peut reduire les performances
+translation.gui.enableportrait=Activer le Portrait
+translation.gui.enablepotioneffects=Activer les Effets de Potion
+translation.gui.enablepopoffs=Activer Pop-up
+translation.gui.selectskin=Selectionner un Skin...
+translation.gui.advanced=Parametre Avancer
+translation.gui.alternaterendermethod=Methode Alternative de Rendu
+translation.gui.guiscale=Echelle de l'Interface
+translation.gui.highcomprendering=Haute Compatibilité du Rendu
+
+key.portaitreposition=GUI Domage Indicators
