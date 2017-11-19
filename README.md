@@ -3,6 +3,6 @@
 
 <hr></hr>
 
-[![Master](https://img.shields.io/badge/-Master-lightgrey.svg?style=flat-square)](https://github.com/GalliCraft/Pack-FR/tree/1.7.10)
+[![Master](https://img.shields.io/badge/-Master-lightgrey.svg?style=flat-square)](https://github.com/GalliCraft/Pack-FR/tree/master)
 [![1.7.10](https://img.shields.io/badge/-1.7.10-orange.svg?style=flat-square)](https://github.com/GalliCraft/Pack-FR/tree/1.7.10)
 [![1.10.2](https://img.shields.io/badge/-1.10.2-lightgrey.svg?style=flat-square)](https://github.com/GalliCraft/Pack-FR/tree/1.10.2)
